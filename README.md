@@ -1,2 +1,2 @@
-# dataviz-indiv-project
-MSIS - Data Viz - Individual Project
+# Which country is the best to move to
+MSIS - Data Viz - Individual Project Created by Ekta Ratanpara
