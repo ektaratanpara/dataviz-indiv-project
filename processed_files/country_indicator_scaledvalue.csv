@@ -1,0 +1,171 @@
+Country,Indicator,Value,ScaledValue,Category
+Australia,Self-reported health,85.0,85.0,Health
+Canada,Self-reported health,89.0,100.0,Health
+France,Self-reported health,67.0,17.5,Health
+Germany,Self-reported health,65.0,10.0,Health
+Italy,Self-reported health,66.0,13.75,Health
+Spain,Self-reported health,72.0,36.25,Health
+Sweden,Self-reported health,81.0,70.0,Health
+Switzerland,Self-reported health,81.0,70.0,Health
+United Kingdom,Self-reported health,74.0,43.75,Health
+United States,Self-reported health,88.0,96.25,Health
+Australia,Employment rate,72.0,68.7,Employment
+Canada,Employment rate,72.0,68.7,Employment
+France,Employment rate,64.0,37.39,Employment
+Germany,Employment rate,74.0,76.52,Employment
+Italy,Employment rate,57.0,10.0,Employment
+Spain,Employment rate,57.0,10.0,Employment
+Sweden,Employment rate,75.0,80.43,Employment
+Switzerland,Employment rate,80.0,100.0,Employment
+United Kingdom,Employment rate,73.0,72.61,Employment
+United States,Employment rate,68.0,53.04,Employment
+Australia,Air pollution,6.0,100.0,Environment Health
+Canada,Air pollution,12.0,55.0,Environment Health
+France,Air pollution,14.0,40.0,Environment Health
+Germany,Air pollution,15.0,32.5,Environment Health
+Italy,Air pollution,18.0,10.0,Environment Health
+Spain,Air pollution,12.0,55.0,Environment Health
+Sweden,Air pollution,7.0,92.5,Environment Health
+Switzerland,Air pollution,17.0,17.5,Environment Health
+United Kingdom,Air pollution,11.0,62.5,Environment Health
+United States,Air pollution,11.0,62.5,Environment Health
+Australia,Housing expenditure,20.0,82.0,Financial Health
+Canada,Housing expenditure,21.0,64.0,Financial Health
+France,Housing expenditure,21.0,64.0,Financial Health
+Germany,Housing expenditure,22.0,46.0,Financial Health
+Italy,Housing expenditure,24.0,10.0,Financial Health
+Spain,Housing expenditure,23.0,28.0,Financial Health
+Sweden,Housing expenditure,20.0,82.0,Financial Health
+Switzerland,Housing expenditure,22.0,46.0,Financial Health
+United Kingdom,Housing expenditure,23.0,28.0,Financial Health
+United States,Housing expenditure,19.0,100.0,Financial Health
+Australia,Time devoted to leisure and personal care,14.35,10.0,Happiness
+Canada,Time devoted to leisure and personal care,14.41,12.69,Happiness
+France,Time devoted to leisure and personal care,16.36,100.0,Happiness
+Germany,Time devoted to leisure and personal care,15.55,63.73,Happiness
+Italy,Time devoted to leisure and personal care,14.89,34.18,Happiness
+Spain,Time devoted to leisure and personal care,15.93,80.75,Happiness
+Sweden,Time devoted to leisure and personal care,15.18,47.16,Happiness
+Switzerland,Time devoted to leisure and personal care,15.01,39.55,Happiness
+United Kingdom,Time devoted to leisure and personal care,14.87,33.28,Happiness
+United States,Time devoted to leisure and personal care,14.47,15.37,Happiness
+Australia,Water quality,94.0,90.0,Environment Health
+Canada,Water quality,90.0,76.67,Environment Health
+France,Water quality,84.0,56.67,Environment Health
+Germany,Water quality,94.0,90.0,Environment Health
+Italy,Water quality,70.0,10.0,Environment Health
+Spain,Water quality,71.0,13.33,Environment Health
+Sweden,Water quality,95.0,93.33,Environment Health
+Switzerland,Water quality,97.0,100.0,Environment Health
+United Kingdom,Water quality,87.0,66.67,Environment Health
+United States,Water quality,84.0,56.67,Environment Health
+Australia,Life expectancy,82.2,79.55,Health
+Canada,Life expectancy,81.5,65.23,Health
+France,Life expectancy,82.3,81.59,Health
+Germany,Life expectancy,80.9,52.95,Health
+Italy,Life expectancy,82.8,91.82,Health
+Spain,Life expectancy,83.2,100.0,Health
+Sweden,Life expectancy,82.0,75.45,Health
+Switzerland,Life expectancy,82.9,93.86,Health
+United Kingdom,Life expectancy,81.1,57.05,Health
+United States,Life expectancy,78.8,10.0,Health
+Australia,Long-term unemployment rate,1.32,96.78,Employment
+Canada,Long-term unemployment rate,0.89,100.0,Employment
+France,Long-term unemployment rate,4.21,75.16,Employment
+Germany,Long-term unemployment rate,2.21,90.12,Employment
+Italy,Long-term unemployment rate,7.79,48.38,Employment
+Spain,Long-term unemployment rate,12.92,10.0,Employment
+Sweden,Long-term unemployment rate,1.33,96.71,Employment
+Switzerland,Long-term unemployment rate,1.71,93.87,Employment
+United Kingdom,Long-term unemployment rate,2.22,90.05,Employment
+United States,Long-term unemployment rate,1.42,96.03,Employment
+Australia,Feeling safe walking alone at night,62.6,20.57,Safety
+Canada,Feeling safe walking alone at night,81.7,81.74,Safety
+France,Feeling safe walking alone at night,70.6,46.19,Safety
+Germany,Feeling safe walking alone at night,74.6,59.0,Safety
+Italy,Feeling safe walking alone at night,59.3,10.0,Safety
+Spain,Feeling safe walking alone at night,81.6,81.42,Safety
+Sweden,Feeling safe walking alone at night,76.8,66.05,Safety
+Switzerland,Feeling safe walking alone at night,87.4,100.0,Safety
+United Kingdom,Feeling safe walking alone at night,77.8,69.25,Safety
+United States,Feeling safe walking alone at night,73.9,56.76,Safety
+Australia,Life satisfaction,7.3,85.0,Happiness
+Canada,Life satisfaction,7.4,90.0,Happiness
+France,Life satisfaction,6.4,40.0,Happiness
+Germany,Life satisfaction,7.0,70.0,Happiness
+Italy,Life satisfaction,5.8,10.0,Happiness
+Spain,Life satisfaction,6.4,40.0,Happiness
+Sweden,Life satisfaction,7.3,85.0,Happiness
+Switzerland,Life satisfaction,7.6,100.0,Happiness
+United Kingdom,Life satisfaction,6.5,45.0,Happiness
+United States,Life satisfaction,6.9,65.0,Happiness
+Australia,Median Pay,65900.0,50.26,Financial Health
+United Kingdom,Median Pay,56200.0,37.66,Financial Health
+United States,Median Pay,76000.0,63.38,Financial Health
+Switzerland,Median Pay,104200.0,100.0,Financial Health
+Germany,Median Pay,63800.0,47.53,Financial Health
+France,Median Pay,54700.0,35.71,Financial Health
+Spain,Median Pay,37000.0,12.73,Financial Health
+Italy,Median Pay,34900.0,10.0,Financial Health
+Sweden,Median Pay,61400.0,44.42,Financial Health
+Canada,Median Pay,57500.0,39.35,Financial Health
+Australia,Immigration Inflow,38161.0,58.74,Ease of Immigration
+Canada,Immigration Inflow,33087.0,51.83,Ease of Immigration
+France,Immigration Inflow,2505.0,10.18,Ease of Immigration
+Germany,Immigration Inflow,19455.0,33.26,Ease of Immigration
+Italy,Immigration Inflow,10814.0,21.49,Ease of Immigration
+Spain,Immigration Inflow,2827.0,10.61,Ease of Immigration
+Sweden,Immigration Inflow,2376.0,10.0,Ease of Immigration
+Switzerland,Immigration Inflow,2524.0,10.2,Ease of Immigration
+United Kingdom,Immigration Inflow,30000.0,47.62,Ease of Immigration
+United States,Immigration Inflow,68458.0,100.0,Ease of Immigration
+Australia,Immigration Nationality,19217.0,58.74,Ease of Immigration
+Canada,Immigration Nationality,15418.0,51.83,Ease of Immigration
+France,Immigration Nationality,370.0,10.18,Ease of Immigration
+Germany,Immigration Nationality,1190.0,33.26,Ease of Immigration
+Italy,Immigration Nationality,4863.0,21.49,Ease of Immigration
+Spain,Immigration Nationality,1042.0,10.61,Ease of Immigration
+Sweden,Immigration Nationality,325.0,10.0,Ease of Immigration
+Switzerland,Immigration Nationality,0.0,10.2,Ease of Immigration
+United Kingdom,Immigration Nationality,36351.0,47.62,Ease of Immigration
+United States,Immigration Nationality,49897.0,100.0,Ease of Immigration
+Canada,Ease of starting a new business,98.2,100.0,Business & Innovation
+Australia,Ease of starting a new business,96.5,89.66,Business & Innovation
+Sweden,Ease of starting a new business,94.6,78.11,Business & Innovation
+United Kingdom,Ease of starting a new business,94.6,78.11,Business & Innovation
+France,Ease of starting a new business,93.1,68.99,Business & Innovation
+United States,Ease of starting a new business,91.2,57.43,Business & Innovation
+Italy,Ease of starting a new business,91.1,56.82,Business & Innovation
+Switzerland,Ease of starting a new business,88.5,41.01,Business & Innovation
+Spain,Ease of starting a new business,86.3,27.64,Business & Innovation
+Germany,Ease of starting a new business,83.4,10.0,Business & Innovation
+Switzerland,Global Innovation Index,66.3,100.0,Business & Innovation
+Sweden,Global Innovation Index,63.6,87.28,Business & Innovation
+United Kingdom,Global Innovation Index,61.9,79.27,Business & Innovation
+United States,Global Innovation Index,61.4,76.91,Business & Innovation
+Germany,Global Innovation Index,57.9,60.42,Business & Innovation
+Canada,Global Innovation Index,54.7,45.34,Business & Innovation
+France,Global Innovation Index,54.0,42.04,Business & Innovation
+Australia,Global Innovation Index,53.1,37.8,Business & Innovation
+Spain,Global Innovation Index,49.2,19.42,Business & Innovation
+Italy,Global Innovation Index,47.2,10.0,Business & Innovation
+Switzerland,Political Stability/Absence of Terrorism,93.8,100.0,Safety
+Canada,Political Stability/Absence of Terrorism,92.1,93.38,Safety
+Australia,Political Stability/Absence of Terrorism,89.8,84.42,Safety
+Sweden,Political Stability/Absence of Terrorism,89.6,83.64,Safety
+Germany,Political Stability/Absence of Terrorism,86.1,70.0,Safety
+United States,Political Stability/Absence of Terrorism,78.3,39.61,Safety
+Italy,Political Stability/Absence of Terrorism,75.2,27.53,Safety
+United Kingdom,Political Stability/Absence of Terrorism,73.8,22.08,Safety
+France,Political Stability/Absence of Terrorism,71.7,13.9,Safety
+Spain,Political Stability/Absence of Terrorism,70.7,10.0,Safety
+Sweden,R&D Spend - % of GDP,3.2,100.0,Business & Innovation
+Switzerland,R&D Spend - % of GDP,3.0,91.0,Business & Innovation
+Germany,R&D Spend - % of GDP,2.8,82.0,Business & Innovation
+United States,R&D Spend - % of GDP,2.7,77.5,Business & Innovation
+France,R&D Spend - % of GDP,2.3,59.5,Business & Innovation
+Australia,R&D Spend - % of GDP,2.2,55.0,Business & Innovation
+United Kingdom,R&D Spend - % of GDP,1.7,32.5,Business & Innovation
+Canada,R&D Spend - % of GDP,1.6,28.0,Business & Innovation
+Italy,R&D Spend - % of GDP,1.3,14.5,Business & Innovation
+Spain,R&D Spend - % of GDP,1.2,10.0,Business & Innovation

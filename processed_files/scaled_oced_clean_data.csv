@@ -1,0 +1,371 @@
+Country,Indicator,Value,year,ScaledValue
+Australia,Self-reported health,85.0,2013,82.69
+Canada,Self-reported health,88.0,2013,93.08
+France,Self-reported health,67.0,2013,20.38
+Germany,Self-reported health,64.0,2013,10.0
+Italy,Self-reported health,64.0,2013,10.0
+Spain,Self-reported health,75.0,2013,48.08
+Sweden,Self-reported health,80.0,2013,65.38
+Switzerland,Self-reported health,81.0,2013,68.85
+United Kingdom,Self-reported health,77.0,2013,55.0
+United States,Self-reported health,90.0,2013,100.0
+Australia,Self-reported health,85.0,2014,82.0
+Canada,Self-reported health,88.0,2014,92.8
+France,Self-reported health,68.0,2014,20.8
+Germany,Self-reported health,65.0,2014,10.0
+Italy,Self-reported health,65.0,2014,10.0
+Spain,Self-reported health,75.0,2014,46.0
+Sweden,Self-reported health,80.0,2014,64.0
+Switzerland,Self-reported health,81.0,2014,67.6
+United Kingdom,Self-reported health,78.0,2014,56.8
+United States,Self-reported health,90.0,2014,100.0
+Australia,Self-reported health,85.0,2015,85.0
+Canada,Self-reported health,89.0,2015,100.0
+France,Self-reported health,67.0,2015,17.5
+Germany,Self-reported health,65.0,2015,10.0
+Italy,Self-reported health,66.0,2015,13.75
+Spain,Self-reported health,72.0,2015,36.25
+Sweden,Self-reported health,81.0,2015,70.0
+Switzerland,Self-reported health,81.0,2015,70.0
+United Kingdom,Self-reported health,74.0,2015,43.75
+United States,Self-reported health,88.0,2015,96.25
+Australia,Self-reported health,85.0,2016,85.0
+Canada,Self-reported health,89.0,2016,100.0
+France,Self-reported health,67.0,2016,17.5
+Germany,Self-reported health,65.0,2016,10.0
+Italy,Self-reported health,66.0,2016,13.75
+Spain,Self-reported health,72.0,2016,36.25
+Sweden,Self-reported health,81.0,2016,70.0
+Switzerland,Self-reported health,81.0,2016,70.0
+United Kingdom,Self-reported health,74.0,2016,43.75
+United States,Self-reported health,88.0,2016,96.25
+Australia,Employment rate,73.0,2013,75.45
+Canada,Employment rate,72.0,2013,71.36
+France,Employment rate,64.0,2013,38.64
+Germany,Employment rate,73.0,2013,75.45
+Italy,Employment rate,57.0,2013,10.0
+Spain,Employment rate,58.0,2013,14.09
+Sweden,Employment rate,74.0,2013,79.55
+Switzerland,Employment rate,79.0,2013,100.0
+United Kingdom,Employment rate,70.0,2013,63.18
+United States,Employment rate,67.0,2013,50.91
+Australia,Employment rate,72.0,2014,72.61
+Canada,Employment rate,72.0,2014,72.61
+France,Employment rate,64.0,2014,41.3
+Germany,Employment rate,73.0,2014,76.52
+Italy,Employment rate,58.0,2014,17.83
+Spain,Employment rate,56.0,2014,10.0
+Sweden,Employment rate,74.0,2014,80.43
+Switzerland,Employment rate,79.0,2014,100.0
+United Kingdom,Employment rate,71.0,2014,68.7
+United States,Employment rate,67.0,2014,53.04
+Australia,Employment rate,72.0,2015,70.0
+Canada,Employment rate,72.0,2015,70.0
+France,Employment rate,64.0,2015,40.0
+Germany,Employment rate,73.0,2015,73.75
+Italy,Employment rate,56.0,2015,10.0
+Spain,Employment rate,56.0,2015,10.0
+Sweden,Employment rate,74.0,2015,77.5
+Switzerland,Employment rate,80.0,2015,100.0
+United Kingdom,Employment rate,71.0,2015,66.25
+United States,Employment rate,67.0,2015,51.25
+Australia,Employment rate,72.0,2016,68.7
+Canada,Employment rate,72.0,2016,68.7
+France,Employment rate,64.0,2016,37.39
+Germany,Employment rate,74.0,2016,76.52
+Italy,Employment rate,57.0,2016,10.0
+Spain,Employment rate,57.0,2016,10.0
+Sweden,Employment rate,75.0,2016,80.43
+Switzerland,Employment rate,80.0,2016,100.0
+United Kingdom,Employment rate,73.0,2016,72.61
+United States,Employment rate,68.0,2016,53.04
+Australia,Air pollution,14.0,2013,76.0
+Canada,Air pollution,16.0,2013,64.0
+France,Air pollution,12.0,2013,88.0
+Germany,Air pollution,16.0,2013,64.0
+Italy,Air pollution,21.0,2013,34.0
+Spain,Air pollution,25.0,2013,10.0
+Sweden,Air pollution,10.0,2013,100.0
+Switzerland,Air pollution,22.0,2013,28.0
+United Kingdom,Air pollution,13.0,2013,82.0
+United States,Air pollution,18.0,2013,52.0
+Australia,Air pollution,13.0,2014,80.71
+Canada,Air pollution,15.0,2014,67.86
+France,Air pollution,12.0,2014,87.14
+Germany,Air pollution,16.0,2014,61.43
+Italy,Air pollution,21.0,2014,29.29
+Spain,Air pollution,24.0,2014,10.0
+Sweden,Air pollution,10.0,2014,100.0
+Switzerland,Air pollution,20.0,2014,35.71
+United Kingdom,Air pollution,13.0,2014,80.71
+United States,Air pollution,18.0,2014,48.57
+Australia,Air pollution,13.0,2015,80.71
+Canada,Air pollution,15.0,2015,67.86
+France,Air pollution,12.0,2015,87.14
+Germany,Air pollution,16.0,2015,61.43
+Italy,Air pollution,21.0,2015,29.29
+Spain,Air pollution,24.0,2015,10.0
+Sweden,Air pollution,10.0,2015,100.0
+Switzerland,Air pollution,20.0,2015,35.71
+United Kingdom,Air pollution,13.0,2015,80.71
+United States,Air pollution,18.0,2015,48.57
+Australia,Air pollution,6.0,2016,100.0
+Canada,Air pollution,12.0,2016,55.0
+France,Air pollution,14.0,2016,40.0
+Germany,Air pollution,15.0,2016,32.5
+Italy,Air pollution,18.0,2016,10.0
+Spain,Air pollution,12.0,2016,55.0
+Sweden,Air pollution,7.0,2016,92.5
+Switzerland,Air pollution,17.0,2016,17.5
+United Kingdom,Air pollution,11.0,2016,62.5
+United States,Air pollution,11.0,2016,62.5
+Australia,Housing expenditure,19.0,2013,100.0
+Canada,Housing expenditure,22.0,2013,32.5
+France,Housing expenditure,21.0,2013,55.0
+Germany,Housing expenditure,21.0,2013,55.0
+Italy,Housing expenditure,22.0,2013,32.5
+Spain,Housing expenditure,20.0,2013,77.5
+Sweden,Housing expenditure,21.0,2013,55.0
+Switzerland,Housing expenditure,23.0,2013,10.0
+United Kingdom,Housing expenditure,22.0,2013,32.5
+United States,Housing expenditure,19.0,2013,100.0
+Australia,Housing expenditure,20.0,2014,82.0
+Canada,Housing expenditure,22.0,2014,46.0
+France,Housing expenditure,21.0,2014,64.0
+Germany,Housing expenditure,21.0,2014,64.0
+Italy,Housing expenditure,23.0,2014,28.0
+Spain,Housing expenditure,20.0,2014,82.0
+Sweden,Housing expenditure,21.0,2014,64.0
+Switzerland,Housing expenditure,23.0,2014,28.0
+United Kingdom,Housing expenditure,24.0,2014,10.0
+United States,Housing expenditure,19.0,2014,100.0
+Australia,Housing expenditure,20.0,2015,70.0
+Canada,Housing expenditure,21.0,2015,55.0
+France,Housing expenditure,21.0,2015,55.0
+Germany,Housing expenditure,21.0,2015,55.0
+Italy,Housing expenditure,24.0,2015,10.0
+Spain,Housing expenditure,22.0,2015,40.0
+Sweden,Housing expenditure,20.0,2015,70.0
+Switzerland,Housing expenditure,22.0,2015,40.0
+United Kingdom,Housing expenditure,23.0,2015,25.0
+United States,Housing expenditure,18.0,2015,100.0
+Australia,Housing expenditure,20.0,2016,82.0
+Canada,Housing expenditure,21.0,2016,64.0
+France,Housing expenditure,21.0,2016,64.0
+Germany,Housing expenditure,22.0,2016,46.0
+Italy,Housing expenditure,24.0,2016,10.0
+Spain,Housing expenditure,23.0,2016,28.0
+Sweden,Housing expenditure,20.0,2016,82.0
+Switzerland,Housing expenditure,22.0,2016,46.0
+United Kingdom,Housing expenditure,23.0,2016,28.0
+United States,Housing expenditure,19.0,2016,100.0
+Australia,Time devoted to leisure and personal care,14.41,2013,19.0
+Canada,Time devoted to leisure and personal care,14.25,2013,10.0
+France,Time devoted to leisure and personal care,15.33,2013,70.75
+Germany,Time devoted to leisure and personal care,15.31,2013,69.62
+Italy,Time devoted to leisure and personal care,14.89,2013,46.0
+Spain,Time devoted to leisure and personal care,15.85,2013,100.0
+Sweden,Time devoted to leisure and personal care,15.11,2013,58.37
+Switzerland,Time devoted to leisure and personal care,14.78,2013,39.81
+United Kingdom,Time devoted to leisure and personal care,14.83,2013,42.62
+United States,Time devoted to leisure and personal care,14.27,2013,11.13
+Australia,Time devoted to leisure and personal care,14.41,2014,17.96
+Canada,Time devoted to leisure and personal care,14.25,2014,10.0
+France,Time devoted to leisure and personal care,15.33,2014,63.7
+Germany,Time devoted to leisure and personal care,15.31,2014,62.71
+Italy,Time devoted to leisure and personal care,14.98,2014,46.3
+Spain,Time devoted to leisure and personal care,16.06,2014,100.0
+Sweden,Time devoted to leisure and personal care,15.11,2014,52.76
+Switzerland,Time devoted to leisure and personal care,14.98,2014,46.3
+United Kingdom,Time devoted to leisure and personal care,14.83,2014,38.84
+United States,Time devoted to leisure and personal care,14.27,2014,10.99
+Australia,Time devoted to leisure and personal care,14.41,2015,17.96
+Canada,Time devoted to leisure and personal care,14.25,2015,10.0
+France,Time devoted to leisure and personal care,15.33,2015,63.7
+Germany,Time devoted to leisure and personal care,15.31,2015,62.71
+Italy,Time devoted to leisure and personal care,14.98,2015,46.3
+Spain,Time devoted to leisure and personal care,16.06,2015,100.0
+Sweden,Time devoted to leisure and personal care,15.11,2015,52.76
+Switzerland,Time devoted to leisure and personal care,14.98,2015,46.3
+United Kingdom,Time devoted to leisure and personal care,14.83,2015,38.84
+United States,Time devoted to leisure and personal care,14.27,2015,10.99
+Australia,Time devoted to leisure and personal care,14.35,2016,10.0
+Canada,Time devoted to leisure and personal care,14.41,2016,12.69
+France,Time devoted to leisure and personal care,16.36,2016,100.0
+Germany,Time devoted to leisure and personal care,15.55,2016,63.73
+Italy,Time devoted to leisure and personal care,14.89,2016,34.18
+Spain,Time devoted to leisure and personal care,15.93,2016,80.75
+Sweden,Time devoted to leisure and personal care,15.18,2016,47.16
+Switzerland,Time devoted to leisure and personal care,15.01,2016,39.55
+United Kingdom,Time devoted to leisure and personal care,14.87,2016,33.28
+United States,Time devoted to leisure and personal care,14.47,2016,15.37
+Australia,Water quality,91.0,2013,79.23
+Canada,Water quality,89.0,2013,72.31
+France,Water quality,81.0,2013,44.62
+Germany,Water quality,93.0,2013,86.15
+Italy,Water quality,71.0,2013,10.0
+Spain,Water quality,79.0,2013,37.69
+Sweden,Water quality,95.0,2013,93.08
+Switzerland,Water quality,95.0,2013,93.08
+United Kingdom,Water quality,97.0,2013,100.0
+United States,Water quality,87.0,2013,65.38
+Australia,Water quality,93.0,2014,83.64
+Canada,Water quality,90.0,2014,71.36
+France,Water quality,85.0,2014,50.91
+Germany,Water quality,94.0,2014,87.73
+Italy,Water quality,80.0,2014,30.45
+Spain,Water quality,75.0,2014,10.0
+Sweden,Water quality,97.0,2014,100.0
+Switzerland,Water quality,95.0,2014,91.82
+United Kingdom,Water quality,92.0,2014,79.55
+United States,Water quality,87.0,2014,59.09
+Australia,Water quality,91.0,2015,82.0
+Canada,Water quality,91.0,2015,82.0
+France,Water quality,82.0,2015,49.6
+Germany,Water quality,95.0,2015,96.4
+Italy,Water quality,71.0,2015,10.0
+Spain,Water quality,71.0,2015,10.0
+Sweden,Water quality,95.0,2015,96.4
+Switzerland,Water quality,96.0,2015,100.0
+United Kingdom,Water quality,88.0,2015,71.2
+United States,Water quality,85.0,2015,60.4
+Australia,Water quality,94.0,2016,90.0
+Canada,Water quality,90.0,2016,76.67
+France,Water quality,84.0,2016,56.67
+Germany,Water quality,94.0,2016,90.0
+Italy,Water quality,70.0,2016,10.0
+Spain,Water quality,71.0,2016,13.33
+Sweden,Water quality,95.0,2016,93.33
+Switzerland,Water quality,97.0,2016,100.0
+United Kingdom,Water quality,87.0,2016,66.67
+United States,Water quality,84.0,2016,56.67
+Australia,Life expectancy,82.0,2013,82.44
+Canada,Life expectancy,81.0,2013,60.49
+France,Life expectancy,82.2,2013,86.83
+Germany,Life expectancy,80.8,2013,56.1
+Italy,Life expectancy,82.7,2013,97.8
+Spain,Life expectancy,82.4,2013,91.22
+Sweden,Life expectancy,81.9,2013,80.24
+Switzerland,Life expectancy,82.8,2013,100.0
+United Kingdom,Life expectancy,81.1,2013,62.68
+United States,Life expectancy,78.7,2013,10.0
+Australia,Life expectancy,82.0,2014,82.44
+Canada,Life expectancy,81.0,2014,60.49
+France,Life expectancy,82.2,2014,86.83
+Germany,Life expectancy,80.8,2014,56.1
+Italy,Life expectancy,82.7,2014,97.8
+Spain,Life expectancy,82.4,2014,91.22
+Sweden,Life expectancy,81.9,2014,80.24
+Switzerland,Life expectancy,82.8,2014,100.0
+United Kingdom,Life expectancy,81.1,2014,62.68
+United States,Life expectancy,78.7,2014,10.0
+Australia,Life expectancy,82.1,2015,84.63
+Canada,Life expectancy,81.5,2015,71.46
+France,Life expectancy,82.1,2015,84.63
+Germany,Life expectancy,81.0,2015,60.49
+Italy,Life expectancy,82.3,2015,89.02
+Spain,Life expectancy,82.5,2015,93.41
+Sweden,Life expectancy,81.8,2015,78.05
+Switzerland,Life expectancy,82.8,2015,100.0
+United Kingdom,Life expectancy,81.0,2015,60.49
+United States,Life expectancy,78.7,2015,10.0
+Australia,Life expectancy,82.2,2016,79.55
+Canada,Life expectancy,81.5,2016,65.23
+France,Life expectancy,82.3,2016,81.59
+Germany,Life expectancy,80.9,2016,52.95
+Italy,Life expectancy,82.8,2016,91.82
+Spain,Life expectancy,83.2,2016,100.0
+Sweden,Life expectancy,82.0,2016,75.45
+Switzerland,Life expectancy,82.9,2016,93.86
+United Kingdom,Life expectancy,81.1,2016,57.05
+United States,Life expectancy,78.8,2016,10.0
+Australia,Long-term unemployment rate,0.96,2013,100.0
+Canada,Long-term unemployment rate,1.0,2013,99.55
+France,Long-term unemployment rate,3.83,2013,67.83
+Germany,Long-term unemployment rate,2.84,2013,78.93
+Italy,Long-term unemployment rate,4.36,2013,61.89
+Spain,Long-term unemployment rate,8.99,2013,10.0
+Sweden,Long-term unemployment rate,1.29,2013,96.3
+Switzerland,Long-term unemployment rate,1.57,2013,93.16
+United Kingdom,Long-term unemployment rate,2.62,2013,81.39
+United States,Long-term unemployment rate,2.8,2013,79.38
+Australia,Long-term unemployment rate,1.06,2014,98.59
+Canada,Long-term unemployment rate,0.9,2014,100.0
+France,Long-term unemployment rate,3.98,2014,72.9
+Germany,Long-term unemployment rate,2.52,2014,85.75
+Italy,Long-term unemployment rate,5.67,2014,58.04
+Spain,Long-term unemployment rate,11.13,2014,10.0
+Sweden,Long-term unemployment rate,1.4,2014,95.6
+Switzerland,Long-term unemployment rate,1.48,2014,94.9
+United Kingdom,Long-term unemployment rate,2.75,2014,83.72
+United States,Long-term unemployment rate,2.36,2014,87.16
+Australia,Long-term unemployment rate,1.08,2015,98.66
+Canada,Long-term unemployment rate,0.9,2015,100.0
+France,Long-term unemployment rate,3.99,2015,76.94
+Germany,Long-term unemployment rate,2.37,2015,89.03
+Italy,Long-term unemployment rate,6.94,2015,54.93
+Spain,Long-term unemployment rate,12.96,2015,10.0
+Sweden,Long-term unemployment rate,1.37,2015,96.49
+Switzerland,Long-term unemployment rate,1.46,2015,95.82
+United Kingdom,Long-term unemployment rate,2.77,2015,86.04
+United States,Long-term unemployment rate,1.91,2015,92.46
+Australia,Long-term unemployment rate,1.32,2016,96.78
+Canada,Long-term unemployment rate,0.89,2016,100.0
+France,Long-term unemployment rate,4.21,2016,75.16
+Germany,Long-term unemployment rate,2.21,2016,90.12
+Italy,Long-term unemployment rate,7.79,2016,48.38
+Spain,Long-term unemployment rate,12.92,2016,10.0
+Sweden,Long-term unemployment rate,1.33,2016,96.71
+Switzerland,Long-term unemployment rate,1.71,2016,93.87
+United Kingdom,Long-term unemployment rate,2.22,2016,90.05
+United States,Long-term unemployment rate,1.42,2016,96.03
+Australia,Feeling safe walking alone at night,62.6,2016,20.57
+Canada,Feeling safe walking alone at night,81.7,2016,81.74
+France,Feeling safe walking alone at night,70.6,2016,46.19
+Germany,Feeling safe walking alone at night,74.6,2016,59.0
+Italy,Feeling safe walking alone at night,59.3,2016,10.0
+Spain,Feeling safe walking alone at night,81.6,2016,81.42
+Sweden,Feeling safe walking alone at night,76.8,2016,66.05
+Switzerland,Feeling safe walking alone at night,87.4,2016,100.0
+United Kingdom,Feeling safe walking alone at night,77.8,2016,69.25
+United States,Feeling safe walking alone at night,73.9,2016,56.76
+Australia,Life satisfaction,7.2,2013,73.0
+Canada,Life satisfaction,7.4,2013,82.0
+France,Life satisfaction,6.6,2013,46.0
+Germany,Life satisfaction,6.7,2013,50.5
+Italy,Life satisfaction,5.8,2013,10.0
+Spain,Life satisfaction,6.3,2013,32.5
+Sweden,Life satisfaction,7.6,2013,91.0
+Switzerland,Life satisfaction,7.8,2013,100.0
+United Kingdom,Life satisfaction,6.8,2013,55.0
+United States,Life satisfaction,7.0,2013,64.0
+Australia,Life satisfaction,7.4,2014,80.0
+Canada,Life satisfaction,7.6,2014,90.0
+France,Life satisfaction,6.7,2014,45.0
+Germany,Life satisfaction,7.0,2014,60.0
+Italy,Life satisfaction,6.0,2014,10.0
+Spain,Life satisfaction,6.2,2014,20.0
+Sweden,Life satisfaction,7.4,2014,80.0
+Switzerland,Life satisfaction,7.8,2014,100.0
+United Kingdom,Life satisfaction,6.9,2014,55.0
+United States,Life satisfaction,7.0,2014,60.0
+Australia,Life satisfaction,7.3,2015,88.0
+Canada,Life satisfaction,7.3,2015,88.0
+France,Life satisfaction,6.5,2015,40.0
+Germany,Life satisfaction,7.0,2015,70.0
+Italy,Life satisfaction,6.0,2015,10.0
+Spain,Life satisfaction,6.5,2015,40.0
+Sweden,Life satisfaction,7.2,2015,82.0
+Switzerland,Life satisfaction,7.5,2015,100.0
+United Kingdom,Life satisfaction,6.8,2015,58.0
+United States,Life satisfaction,7.2,2015,82.0
+Australia,Life satisfaction,7.3,2016,85.0
+Canada,Life satisfaction,7.4,2016,90.0
+France,Life satisfaction,6.4,2016,40.0
+Germany,Life satisfaction,7.0,2016,70.0
+Italy,Life satisfaction,5.8,2016,10.0
+Spain,Life satisfaction,6.4,2016,40.0
+Sweden,Life satisfaction,7.3,2016,85.0
+Switzerland,Life satisfaction,7.6,2016,100.0
+United Kingdom,Life satisfaction,6.5,2016,45.0
+United States,Life satisfaction,6.9,2016,65.0
