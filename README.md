@@ -7,3 +7,4 @@ This repo contains artifacts listed below:
 3. DataViz-Ekta-IndivProject.ipynb: Jupyter notebook for cleaning and transforming raw data. [https://nbviewer.jupyter.org/github/ektaratanpara/dataviz-indiv-project/blob/master/DataViz-Ekta-IndivProject.ipynb]
 4. DataViz_Ekta.twb: Tableau workbook that contains all shets, dashboards and story for the project
 5. tableau_images: Images used in the Tableau workbook
+6. DataViz_Report_Ekta_Ratanpara.pdf: PDF Report
