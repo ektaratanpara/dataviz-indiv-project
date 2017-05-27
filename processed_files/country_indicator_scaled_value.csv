@@ -109,26 +109,16 @@ Spain,Median Pay,37000.0,12.73,Financial Health
 Italy,Median Pay,34900.0,10.0,Financial Health
 Sweden,Median Pay,61400.0,44.42,Financial Health
 Canada,Median Pay,57500.0,39.35,Financial Health
-Australia,Immigration Inflow,38161.0,58.74,Ease of Immigration
-Canada,Immigration Inflow,33087.0,51.83,Ease of Immigration
-France,Immigration Inflow,2505.0,10.18,Ease of Immigration
-Germany,Immigration Inflow,19455.0,33.26,Ease of Immigration
-Italy,Immigration Inflow,10814.0,21.49,Ease of Immigration
-Spain,Immigration Inflow,2827.0,10.61,Ease of Immigration
-Sweden,Immigration Inflow,2376.0,10.0,Ease of Immigration
-Switzerland,Immigration Inflow,2524.0,10.2,Ease of Immigration
-United Kingdom,Immigration Inflow,30000.0,47.62,Ease of Immigration
-United States,Immigration Inflow,68458.0,100.0,Ease of Immigration
-Australia,Immigration Nationality,19217.0,58.74,Ease of Immigration
-Canada,Immigration Nationality,15418.0,51.83,Ease of Immigration
-France,Immigration Nationality,370.0,10.18,Ease of Immigration
-Germany,Immigration Nationality,1190.0,33.26,Ease of Immigration
-Italy,Immigration Nationality,4863.0,21.49,Ease of Immigration
-Spain,Immigration Nationality,1042.0,10.61,Ease of Immigration
-Sweden,Immigration Nationality,325.0,10.0,Ease of Immigration
-Switzerland,Immigration Nationality,0.0,10.2,Ease of Immigration
-United Kingdom,Immigration Nationality,36351.0,47.62,Ease of Immigration
-United States,Immigration Nationality,49897.0,100.0,Ease of Immigration
+Australia,Immigration Inflow,38161.0,58.74,Immigration Inflow
+Canada,Immigration Inflow,33087.0,51.83,Immigration Inflow
+France,Immigration Inflow,2505.0,10.18,Immigration Inflow
+Germany,Immigration Inflow,19455.0,33.26,Immigration Inflow
+Italy,Immigration Inflow,10814.0,21.49,Immigration Inflow
+Spain,Immigration Inflow,2827.0,10.61,Immigration Inflow
+Sweden,Immigration Inflow,2376.0,10.0,Immigration Inflow
+Switzerland,Immigration Inflow,2524.0,10.2,Immigration Inflow
+United Kingdom,Immigration Inflow,30000.0,47.62,Immigration Inflow
+United States,Immigration Inflow,68458.0,100.0,Immigration Inflow
 Canada,Ease of starting a new business,98.2,100.0,Business & Innovation
 Australia,Ease of starting a new business,96.5,89.66,Business & Innovation
 Sweden,Ease of starting a new business,94.6,78.11,Business & Innovation
